@@ -1,4 +1,5 @@
-### ✨ Hi there 👋 [![Linkedin: RoeeGadot](https://img.shields.io/badge/-salimkhallouki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salimkhallouki)](https://www.linkedin.com/in/salimkhallouki/)
+### ✨ Hi there 👋 
+### 📫 Feel free to contact me on [![Linkedin: RoeeGadot](https://img.shields.io/badge/-salimkhallouki-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/salimkhallouki)](https://www.linkedin.com/in/salimkhallouki/)
 <!--
 **Axolottl/Axolottl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
