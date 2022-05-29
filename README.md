@@ -19,8 +19,6 @@
   </p>
 </p>
 
-
-<details>
   <summary>Stats</summary>
  <img align="center" src="https://komarev.com/ghpvc/?username=Axolottl" />	<div align="center">
   <a href="https://github.com/Axolottl">
@@ -35,7 +33,6 @@
     </a>
   </center>
 	</div>
-</details>
 <br>
 
 Currently,
