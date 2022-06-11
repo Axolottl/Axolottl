@@ -37,4 +37,4 @@
 
 Currently,
 * 🧑‍🎓 I'm student in the [Master's degree in Foundation of Computer Science](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if) of the University of Bordeaux
-* 🪐 Mars using React and ThreeJS [Interactive Planet mars with topography Three.js](axolottl.github.io/three-js-play-ground/)
+* 🪐 Mars using React and ThreeJS [Interactive Planet mars with topography Three.js](https://axolottl.github.io/React-Three-Playground/)
