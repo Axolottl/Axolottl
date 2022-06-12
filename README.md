@@ -36,7 +36,7 @@
 <br>
 
 Currently,
-	* 🧑‍🎓 STUDYING : I'm student in the [Master's degree in Foundation of Computer Science](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if) of the University of Bordeaux
-	* 🪐 WEBSITE : Mars using React and ThreeJS [Interactive Planet mars with topography Three.js](https://axolottl.github.io/React-Three-Playground/)
-	* 🛒 WEBSITE : Contributiong and maintaining of gaming website with shoping support [Bending MC server website](https://bendingmc.net/)
-	* 🌌 WEBSITE : Three.JS play ground for polygraph forms and light sources [First playground with Three.js in JS](https://axolottl.github.io/Three-JS-Play-Ground/)
+* 🧑‍🎓 STUDYING : I'm student in the [Master's degree in Foundation of Computer Science](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if) of the University of Bordeaux
+* 🪐 WEBSITE : Mars using React and ThreeJS [Interactive Planet mars with topography Three.js](https://axolottl.github.io/React-Three-Playground/)
+* 🛒 WEBSITE : Contributiong and maintaining of gaming website with shoping support [Bending MC server website](https://bendingmc.net/)
+* 🌌 WEBSITE : Three.JS play ground for polygraph forms and light sources [First playground with Three.js in JS](https://axolottl.github.io/Three-JS-Play-Ground/)
