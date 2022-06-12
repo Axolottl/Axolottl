@@ -38,6 +38,7 @@
 Currently,
 ***Studies :***
 * 🧑‍🎓 I'm student in the [Master's degree in Foundation of Computer Science](https://masterinfo.emi.u-bordeaux.fr/wiki/doku.php?id=if) of the University of Bordeaux
+
 ***Websites :***
 * 🪐 Mars using React and ThreeJS [Interactive Planet mars with topography Three.js](https://axolottl.github.io/React-Three-Playground/)
 * 🛒 Contributiong and maintaining of gaming website with shoping support [Bending MC server website](https://bendingmc.net/)
