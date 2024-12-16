@@ -19,20 +19,13 @@
   </p>
 </p>
 
-  <summary>Stats</summary>
- <img align="center" src="https://komarev.com/ghpvc/?username=Axolottl" />	<div align="center">
-  <a href="https://github.com/Axolottl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Axolottl&count_private=true&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true" />
-  </a>
-  <a href="https://github.com/Axolottl">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Axolottl&langs_count=5&bg_color=22272e&text_color=9facb8&hide_border=true&title_color=4293f5&icon_color=347d3a&show_icons=true&layout=default&hide=tex,rescript,css,html,Makefile,Yacc,FreeMarker,Lex,PHP,Vim%20script,CMake" />
-  </a>
-  <center>
-    <a href="https://github.com/Axolottl">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Axolottl&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j&background=22272E&border=DD272700&stroke=2D333B&fire=4F9BF5&ring=4F9BF5&dates=9FACB8&currStreakLabel=EC775C" />
-    </a>
-  </center>
-	</div>
+<summary>Stats</summary>
+<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axolottl&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axolottl&layout=compact&theme=transparent&hide=makefile)
+
+</div>
 <br>
 
 Currently,
